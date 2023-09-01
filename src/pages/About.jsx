@@ -1,6 +1,6 @@
-export function About() {
+export default function About() {
   return (
-    <div className="px-4 sm:px-8 md:px-16 lg:px-20 xl:px-24">
+    <>
       <h1 className="text-2xl font-medium my-3">About Me</h1>
       <p>
         Hello! My name is Wyatt Bensman & I'm a recent graduate from The Ohio
@@ -18,6 +18,6 @@ export function About() {
         pickleball. Please feel free to reach out whenever, my info is at the
         bottom of the page.
       </p>
-    </div>
+    </>
   );
 }
