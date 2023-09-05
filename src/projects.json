@@ -1,0 +1,30 @@
+[
+  {
+    "index": 1,
+    "title": "Healthy Heals",
+    "gitHubLink": "https://github.com/WyattBensman/healthy-heals",
+    "websiteLink": "https://fresh-fuel-e5047e04b770.herokuapp.com/",
+    "image": "/images/healthy-heals-cover.jpeg"
+  },
+  {
+    "index": 2,
+    "title": "The Merry Wishlist",
+    "gitHubLink": "https://github.com/WyattBensman/the-merry-wishlist",
+    "websiteLink": "https://wyattbensman.github.io/the-merry-wishlist/",
+    "image": "/images/img-1.jpeg"
+  },
+  {
+    "index": 3,
+    "title": "Work Day Scheduler",
+    "gitHubLink": "https://github.com/WyattBensman/work-day-scheduler",
+    "websiteLink": "https://wyattbensman.github.io/work-day-scheduler/",
+    "image": "/images/work-day-scheduler.png"
+  },
+  {
+    "index": 4,
+    "title": "Weather Dash Scheduler",
+    "gitHubLink": "https://github.com/WyattBensman/weather-dashboard",
+    "websiteLink": "https://wyattbensman.github.io/weather-dashboard/",
+    "image": "/images/weather-dash.png"
+  }
+]
